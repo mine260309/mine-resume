@@ -1,4 +1,4 @@
 mine-resume
 ===========
 
-My resume
+My resume templated with http://sampleresumetemplate.net/
